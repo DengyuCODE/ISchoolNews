@@ -1,0 +1,9 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.iSchool.common.exception.ExceptionCatch,\
+  com.iSchool.common.swagger.SwaggerConfiguration,\
+  com.iSchool.common.swagger.Swagger2Configuration,\
+  com.iSchool.common.aliyun.GreenImageScan,\
+  com.iSchool.common.aliyun.GreenTextScan,\
+  com.iSchool.common.tess4j.Tess4jClient,\
+  com.iSchool.common.redis.CacheService,\
+  com.iSchool.common.jackson.InitJacksonConfig

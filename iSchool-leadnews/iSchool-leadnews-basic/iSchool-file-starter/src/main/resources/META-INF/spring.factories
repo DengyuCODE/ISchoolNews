@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.iSchool.file.service.impl.MinIOFileStorageService
